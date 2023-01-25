@@ -1,5 +1,3 @@
-# cse351-project-titanic-dataset
+# CSE351 - Titanic EDA
 
 Exploratory data analysis and modeling on the titanic dataset
-
-Final score: 37/35
